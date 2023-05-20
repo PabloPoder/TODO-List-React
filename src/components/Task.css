@@ -1,0 +1,19 @@
+
+.task{
+    text-align: start;
+    font-size: 18px;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+}
+
+.task button{
+    background-color: none;
+    padding: 2%;
+    margin: 2%;
+    background: none;
+}
+
+.task button:hover{
+    border: 1.5px solid orange;
+}

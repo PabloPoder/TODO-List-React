@@ -1,0 +1,31 @@
+
+.task-list {
+    border: 2px solid white;
+    border-radius: 8px;
+    margin-top: 20px;
+    overflow-x: auto;
+    width: auto;
+}
+
+.task-list ul{
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+}
+
+.task-list li{
+    margin-bottom: 5px;
+}
+
+.new-task-button {
+    margin-top: 25px;
+    background-color: orange;
+    color: white;
+}
+
+
+.new-task-button:hover {
+    background-color: rgb(214, 47, 72);
+    border-color: white;
+    border: 1px solid white;
+}
