@@ -3,6 +3,9 @@ Este proyecto es un ejercicio práctico diseñado para familiarizarme con el uso
 
 Aunque la estructura de la aplicación es sencilla y no presenta un problema significativo de prop drilling, el enfoque principal se centra en el uso de un contexto para gestionar el estado y compartir datos entre componentes de manera eficiente.
 
+#Visitar pagina: 
+http://todo-list-react-context-reducer.surge.sh
+
 # Lista de características a desarrollar:
 
 ✅- Muestra una lista de tareas.
