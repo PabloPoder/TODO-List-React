@@ -25,4 +25,4 @@ http://todo-list-react-context-reducer.surge.sh
 ✅- Guardar la lista en un localStorage para que se recupere al recargar la pagina.
 
 # Créditos
-Este proyecto de lista de tareas fue desarrollado para practicar lo visto en las clases de @midudev sobre React.
+Este proyecto de lista de tareas fue desarrollado para practicar lo visto en las clases de @midudev💖 sobre React.
