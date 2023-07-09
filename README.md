@@ -1,7 +1,9 @@
 # TODO LIST - Context y Reducer ⚛️
-Este proyecto es un ejercicio práctico diseñado para familiarizarme con el uso de Context y los reducers en React. Además, se han aplicado buenas prácticas utilizando custom hooks para mejorar la legibilidad y mantenibilidad del código.
+Este proyecto es un ejercicio práctico diseñado para familiarizarme con el uso de Context y los reducers en React ⚛️. 
+Además, se han aplicado buenas prácticas utilizando custom hooks para mejorar la legibilidad y mantenibilidad del código 🧑🏻‍💻.
 
-Aunque la estructura de la aplicación es sencilla y no presenta un problema significativo de prop drilling, el enfoque principal se centra en el uso de un contexto para gestionar el estado y compartir datos entre componentes de manera eficiente.
+Aunque la estructura 🏗️ de la aplicación es sencilla y no presenta un problema significativo de prop drilling, 
+el enfoque principal se centra en el uso de un contexto para gestionar el estado y compartir datos entre componentes de manera eficiente ⚡.
 
 ![image](https://github.com/PabloPoder/TODO-List-React/assets/50326883/41dd8de9-8b08-4c56-950e-8c1224c4fdd4)
 
